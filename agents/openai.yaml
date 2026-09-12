@@ -1,0 +1,13 @@
+interface:
+  display_name: Research Figure Workbench
+  short_description: Evidence-first publication figures, multi-panel design, reproducible
+    export, and final-size QA.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
